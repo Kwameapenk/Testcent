@@ -1,0 +1,20 @@
+.project_header {
+        font-size: 32px;
+        padding: 14px 10%;
+        color: #dddddd;
+
+}
+
+.projects_page_p {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 6%;
+}
+
+.project_text{
+    font-size: 32px;
+        padding: 14px 6%;
+        color: #dddddd;
+}
